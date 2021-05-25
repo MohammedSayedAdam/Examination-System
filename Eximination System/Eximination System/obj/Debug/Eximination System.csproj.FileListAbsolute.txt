@@ -29,3 +29,41 @@ E:\ADAM\Examination System\Eximination System\Eximination System\obj\Debug\Inter
 E:\ADAM\Examination System\Eximination System\Eximination System\obj\Debug\Eximination System.csproj.ResolveComReference.cache
 E:\ADAM\Examination System\Eximination System\Eximination System\obj\Debug\Interop.UIA.dll
 E:\ADAM\Examination System\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationBlockingCoreLib.dll
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\bin\Debug\Eximination System.exe.config
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Interop.UIA.dll
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationBlockingCoreLib.dll
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationClient.dll
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationClientPriv.dll
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationCorePriv.dll
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Eximination System.csproj.ResolveComReference.cache
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Eximination System.exe
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Eximination System.pdb
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\bin\Debug\Eximination System.exe
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\bin\Debug\Eximination System.pdb
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\bin\Debug\MicrosoftEdgecls.dll
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Eximination System.csprojResolveAssemblyReference.cache
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Eximination_System.Form1.resources
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Eximination_System.Properties.Resources.resources
+C:\Users\CITY\Desktop\Inspire Examination System\Eximination System\Eximination System\obj\Debug\Eximination System.csproj.GenerateResource.Cache
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\bin\Debug\Eximination System.exe.config
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Interop.UIA.dll
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationBlockingCoreLib.dll
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationClient.dll
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationClientPriv.dll
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationCorePriv.dll
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Eximination System.csproj.ResolveComReference.cache
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Eximination System.exe
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Eximination System.pdb
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\bin\Debug\Eximination System.exe
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\bin\Debug\Eximination System.pdb
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\bin\Debug\MicrosoftEdgecls.dll
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Eximination System.csprojResolveAssemblyReference.cache
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Eximination_System.Form1.resources
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Eximination_System.Properties.Resources.resources
+C:\Users\CITY\Desktop\Inspire Version\Eximination System\Eximination System\obj\Debug\Eximination System.csproj.GenerateResource.Cache
