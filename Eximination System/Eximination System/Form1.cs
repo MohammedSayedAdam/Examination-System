@@ -14,12 +14,13 @@ using System.Diagnostics;
 using MicrosoftEdgecls;
 using System.Runtime.InteropServices;
 using System.Windows.Automation;
+using System.Threading;
 
 namespace Eximination_System
 {
     public partial class Form1 : Form
     {
-        public MsEdgeOperations edge = new MicrosoftEdgecls.MsEdgeOperations();
+        MicrosoftEdgecls.MsEdgeOperations edge = new MsEdgeOperations();
         public Form1()
         {
             InitializeComponent();
@@ -32,7 +33,8 @@ namespace Eximination_System
         {
             try
             {
-                edge.Invoke(textBox1.Text);
+               
+               edge.Invoke(textBox1.Text);
 
             }
             catch (Exception ex)
