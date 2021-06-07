@@ -33,9 +33,7 @@ namespace Eximination_System
         {
             try
             {
-               
                edge.Invoke(textBox1.Text);
-
             }
             catch (Exception ex)
             {
@@ -63,7 +61,7 @@ namespace Eximination_System
             }
 
         }
-
+       
     }
 
 }
