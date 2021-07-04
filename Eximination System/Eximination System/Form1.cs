@@ -21,8 +21,7 @@ namespace Eximination_System
     public partial class Form1 : Form
     {
         MicrosoftEdgecls.MsEdgeOperations edge = new MsEdgeOperations();
-      
-
+       
         public Form1()
         {
             InitializeComponent();
@@ -45,15 +44,14 @@ namespace Eximination_System
             
         }
         private void button1_Click(object sender, EventArgs e)
-        {  
+        {   
             try
             {            
                 if (edge.GetResult(textBox1.Text))
-                {
                     MessageBox.Show("he is sucesseded");
-                }
                 else
                     MessageBox.Show("he is Failed");
+          
                 edge.ResetToDefault(textBox1.Text);
             }
             catch (Exception ex)
